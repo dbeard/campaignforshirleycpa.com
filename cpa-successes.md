@@ -13,7 +13,7 @@ To support the construction of an ADA compliant perimeter path around portions o
 
 ### Pleasant Street School Ayer Elder Housing Partnership
 
-{% include figure.html image="https://uploads-ssl.webflow.com/6363fc8946fa84c529a6b43e/637a364ce00280439b5b37e2_IMG_1549.JPG" height="300" %}
+{% include figure.html image="https://uploads-ssl.webflow.com/6363fc8946fa84c529a6b43e/637a364ce00280439b5b37e2_IMG_1549.JPG" height="200" %}
 
 For the historic restoration, preservation and support of the Pleasant Street School Ayer Elder Housing Partnership - <a href="https://www.communitypreservation.org/cpc-report?report_src=bcstwv3d3%7Ca%3DAPI_GetRecordAsHTML&key=3898">Read more.</a>
 
@@ -43,6 +43,6 @@ For field irrigation to preserve Pirone Park - <a href="https://www.communitypre
 
 ### Sandy Pond School
 
-{% include figure.html image="https://uploads-ssl.webflow.com/6363fc8946fa84c529a6b43e/637a364c20daa95156073be7_IMG_1556.JPG" height="300" %}
+{% include figure.html image="https://uploads-ssl.webflow.com/6363fc8946fa84c529a6b43e/637a364c20daa95156073be7_IMG_1556.JPG" height="200" %}
 
 Supporting Sandy Pond School Association for the commissioning of a Conditions Assessment of the Sandy Pond School building to identify recommended physical repairs and restoration work - <a href="https://www.communitypreservation.org/cpc-report?report_src=bcstwv3d3%7Ca%3DAPI_GetRecordAsHTML&key=44051">Read more.</a>
