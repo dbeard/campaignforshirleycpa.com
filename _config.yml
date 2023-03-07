@@ -76,7 +76,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "/assets/TownCenter_4a.jpg" # Default image for sharing
   -
     scope:
       path: ""
@@ -92,11 +92,11 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
+lang: en-US # Set the site language
 title: "Campaign for Shirley CPA" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+#logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+description: "Invest in Shirley - Vote Yes on May 2nd!" # Site description and default description, also used in jekyll-seo-tag
+url: "https://campaignforshirleycpa.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 # repo: "https://github.com/daviddarnes/alembic"
 # email: "me@daviddarnes.com"
