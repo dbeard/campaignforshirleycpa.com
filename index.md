@@ -5,7 +5,7 @@ feature_image: "/assets/TownCenter_4a.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-The Community Preservation Act (CPA) is a Massachusetts state law enacted in 2000 that enables cities and towns to create a dedicated fund that can be spent on projects that enhance the community. 189 Massachusetts cities and towns have adopted the CPA including Shirley neighbors Ayer, Groton, Harvard, Lancaster and Pepperell.
+The Community Preservation Act (CPA) is a Massachusetts state law enacted in 2000 that enables cities and towns to create a dedicated fund that can be spent on projects that enhance the community. 194 Massachusetts cities and towns have adopted the CPA including Shirley neighbors Ayer, Groton, Harvard, Lancaster and Pepperell.
 
 Shirley will be voting to adopt the CPA on May 2nd. Make a difference by voting yes!
 
