@@ -36,8 +36,8 @@ An annual 1% surcharge would be added to Shirley property tax bills, both reside
 ### Are there exemptions from the surcharge?
 
  - Yes – $100,000 of property value is excluded when calculating the surcharge.
- - Yes – low & moderate income homeowners over 60 are exempt, as are low income homeowners of any age.
- - Yes – any portion of the property tax that is exempt under Massachusetts General Law Chapter 59 is also be exempt from the surcharge.
+ - Yes – Low and moderate income seniors over 60 and low income residents of any age may apply for exemptions.
+ - Yes – Any portion of the property tax that is exempt under Massachusetts General Law Chapter 59 is also be exempt from the surcharge.
 
 ### How much money would the CPA raise annually in Shirley?
 

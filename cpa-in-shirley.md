@@ -6,7 +6,7 @@ excerpt:
 
 In October of 2021, a Community Preservation Act Study Committee was appointed by the Shirley Select Board to determine the benefits of adopting the Community Preservation Act (CPA). The CPA is a state law that enables cities and towns to create a dedicated fund for local open space, affordable housing, historic preservation, and recreation projects.
 
-Over the past year, Committee members Nancy Andersen, Marie Elwyn, Pau Przybyla, and Janet Tice met with representatives from Town Boards and Committees as well as leaders from other towns that have adopted the CPA. On October 17, Chair Paul Przybyla presented the Committee's findings to the Select Board, with a positive recommendation for adoption.
+Over the past year, Committee members Nancy Andersen, Marie Elwyn, Paul Przybyla, and Janet Tice met with representatives from Town Boards and Committees as well as leaders from other towns that have adopted the CPA. On October 17, Chair Paul Przybyla presented the Committee's findings to the Select Board, with a positive recommendation for adoption.
 
 Numerous CPA benefits were cited in the report including the potential to restore historic buildings such as Center Town Hall, the War Memorial Building, and Schoolhouse #8. Other projects could encompass affordable housing initiatives, the purchase of additional open space, and the enactment of improvements to the town's recreation areas such as replacing the pool liner at Benjamin Hill Park, replacing turf and lights in the Town's playing fields, and funding improvements at Fredonian Park. In addition to providing direct funds, CPA funds can be used to leverage loans or provide matching funds for government grants.
 
@@ -14,7 +14,7 @@ CPA adoption does not impact tax rates but imposes a surcharge on property tax b
 
 Select Board members all expressed support for adoption of the CPA and unanimously voted in favor of including an article on the November 28th Town Warrant. A majority town vote at the Fall Town Meeting would result in the measure's placement on the May 2023 Town Election Ballot.
 
-Currently, 189 Massachusetts cities and towns (54%) have adopted the CPA including many of Shirley's neighbors such as Ayer, Groton, Harvard, and Lancaster. No town that has adopted the CPA has voted to rescind it.
+Currently, 194 Massachusetts cities and towns have adopted the CPA including many of Shirley's neighbors such as Ayer, Groton, Harvard, and Lancaster. No town that has adopted the CPA has voted to rescind it.
 
 Adoption of the CPA is recommended in the Town of Shirley's Master Plan and Open Space and Recreation Plan.
 
