@@ -103,7 +103,7 @@ body {
   a {
     color: $captionColour;
     &:hover {
-      color: $backgroundColour;
+      color: #cccccc !important;
     }
   }
   .container {

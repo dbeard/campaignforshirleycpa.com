@@ -31,7 +31,7 @@ A Community Preservation Committee (CPC) is formed following adoption of CPA. Pr
 
 ### Where does the money come from?
 
-An annual 1% surcharge would be added to Shirley property tax bills, both residential and commercial, amounting to $39 annually for the average single-family homeowner in Shirley. The state matches the funds collected at an average rate of 32%.
+An annual 1% surcharge would be added to Shirley property tax bills, both residential and commercial, amounting to $40 annually for the average single-family homeowner in Shirley. The state matches the funds collected at an average rate of 32%.
 
 ### Are there exemptions from the surcharge?
 
@@ -55,6 +55,10 @@ Using FY23 as an example, the total amount raised by the CPA (surcharge plus sta
 The process requires two votes in favor of adoption:
  - A majority vote at Town Meeting on November 28, 2022 (Passed)
  - A majority vote at the general Town election on May 2, 2023
+
+### Are donations to the campaign tax-deductible?
+
+Federal law stipulates that campaign donations are not tax-deductible.
 
 ### How do I make a donation?
 
