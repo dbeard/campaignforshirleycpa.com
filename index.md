@@ -47,7 +47,7 @@ Using FY23 as an example, the total amount raised by the CPA (surcharge plus sta
 
  - Purchase of open space to protect it from development.
  - Restoration of Fredonian Park.
- - Preservation of the Center Town Hall, War Memorial building, Town cemeteries and other historic Town properties such as School House #8.Preservation of the Center Town Hall, War Memorial building, Town cemeteries and other historic Town properties such as School House #8.
+ - Preservation of the Center Town Hall, War Memorial building, Town cemeteries and other historic Town properties such as School House #8.
  - Benjamin Hill pool and recreation area improvements, athletic field acquisitions.
 
 ### What is the process for adopting the CPA in Shirley?
