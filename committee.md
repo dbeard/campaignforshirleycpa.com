@@ -45,7 +45,7 @@ Just as we support the many institutions and events that give Shirley its small 
 <h6>Community Involvement</h6>
 <p>Shirley Historical Society, Shirley Meeting House, Farandnear Volunteer, Campaign for Shirley CPA</p>
 <p class="quote">
-&ldquo;As a longtime member of the Town of Shirley HIstorical Commission I look forward in seeing Community Preservation Act funds used in the ongoing preservation of our town's historic buildings and artifacts.  The need is great, and CPA will be a valuable resource in this mission.&rdquo;
+&ldquo;As a longtime member of the Town of Shirley Historical Commission, I look forward in seeing Community Preservation Act funds used in the ongoing preservation of our town's historic buildings and artifacts.  The need is great, and CPA will be a valuable resource in this mission.&rdquo;
 </p>
 </div>
 </div>
@@ -59,7 +59,7 @@ Just as we support the many institutions and events that give Shirley its small 
 <h6>Community Involvement</h6>
 <p>Shirley Youth Soccer Coach, Lura A. White ASPTO, Center Town Hall Committee, Campaign for Shirley CPA</p>
 <p class="quote">
-&ldquo;The CPA is an investment in our community, our future, and all that makes our town so special; I want Shirley to continue to thrive, while maintaining its strong sense of history, place and open space. The CPA  is a smart path forward, and it's excting to think of the possibilities its funds can bring.&rdquo;
+&ldquo;The CPA is an investment in our community, our future, and all that makes our town so special; I want Shirley to continue to thrive, while maintaining its strong sense of history, place and open space. The CPA  is a smart path forward, and it's exciting to think of the possibilities its funds can bring.&rdquo;
 </p>
 </div>
 </div>

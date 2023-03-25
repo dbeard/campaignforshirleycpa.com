@@ -9,7 +9,7 @@ The Community Preservation Act (CPA) is a Massachusetts state law enacted in 200
 
 Shirley will be voting to adopt the CPA on May 2nd. Make a difference by voting yes!
 
-<a class="button" href="#ccblock" onclick="document.getElementById('ccblock').style.display = 'block';">Signup for our newsletter!&nbsp; <svg width="16" height="16" class="icon  icon--email" role="img" alt="email"><title>email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
+<a class="button" href="#ccblock" onclick="document.getElementById('ccblock').style.display = 'block';">Signup for email updates!&nbsp; <svg width="16" height="16" class="icon  icon--email" role="img" alt="email"><title>email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
 </a>
 
 ## Frequently Asked Questions
@@ -96,7 +96,7 @@ Shirley, MA  01464
 10. Visit the Community Preservation Coalition to see how other towns have used CPA and talk with your friends and neighbors about which projects you could see happening in Shirley
 
 
-<a class="button" href="#ccblock" onclick="document.getElementById('ccblock').style.display = 'block';">Signup for our newsletter!&nbsp; <svg width="16" height="16" class="icon  icon--email" role="img" alt="email"><title>email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
+<a class="button" href="#ccblock" onclick="document.getElementById('ccblock').style.display = 'block';">Signup for email updates!&nbsp; <svg width="16" height="16" class="icon  icon--email" role="img" alt="email"><title>email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
 </a>
 
 
