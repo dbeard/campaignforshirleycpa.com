@@ -129,6 +129,8 @@ navigation_header:
   url: /cpa-successes/
 - title: Endorsements
   url: /endorsements/
+- title: About
+  url: /committee/
 - title: Donate
   url: /donate/
 
