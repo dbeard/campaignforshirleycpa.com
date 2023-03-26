@@ -88,7 +88,7 @@ Shirley, MA  01464
 2. Place a sign in your yard 
 3. Like and share the Facebook page 
 4. Reach out to (campaignforshirleycpa@gmail.com) to get hard copy flyers to hand to neighbors and friends
-5. Ensure you’re registered to vote in Shirley: [Confirm registration here](https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx)
+5. Ensure you’re registered to vote in Shirley (<b>Voter registration deadline is April 21</b>). [Confirm registration here](https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx)
 6. Commit to voting at Town Hall on May 2nd (hours: 7 AM - 8 PM) or obtain an absentee ballot by this date (By 12 PM on May 1st) [here](https://www.sec.state.ma.us/divisions/elections/languages/absentee-ballot-applications.htm).
 7. Confirm your family and 10 friends are all registered and committed to voting May 2nd
 8. Volunteer to serve as a Neighborhood Captain for speaking with your neighbors about the CPA.

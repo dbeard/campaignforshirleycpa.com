@@ -73,7 +73,8 @@ Just as we support the many institutions and events that give Shirley its small 
 <h6>Community Involvement</h6>
 <p>Shirley Youth Soccer Coach, Lura A. White ASPTO, Campaign for Shirley CPA</p>
 <p class="quote">
-&ldquo;As a parent with a 2nd grader and soon to be kindergartner in the Shirley school district, it is very important to me to be to good steward of the community in which my children will grow up in and to raise my children in a town they can be proud of!  That means protecting our drinking water supply, supporting our senior and veteran residents and supporting our local parks and recreation projects.  With raised funds being matched by the state for such programs, it’s a win-win for our town and residents.&rdquo;
+&ldquo;As a parent with a 2nd grader and soon to be kindergartner in the Shirley school district, it is very important to me to be a good steward of the community that my children will grow up in, and to raise them in a town they can be proud of! 
+That means supporting our local parks and recreation projects, protecting our drinking water supply, and supporting our senior and veteran residents. With raised funds being matched by the state for such programs, it’s a win-win for our town and residents.&rdquo;
 </p>
 </div>
 </div>
@@ -91,9 +92,45 @@ Just as we support the many institutions and events that give Shirley its small 
 </p>
 </div>
 </div>
-<!-- <div style="font-size: 0.9em;">
-<p><b>Community Involvement:</b> Shirley Youth Soccer Coach, Shirley Greenway Committee, Shirley Open Space and Rec Plan Committee</p>
-<p>
-Financially, CPA adoption is a very smart investment for Shirley because it will automatically bring an additional stream of State funding to town year after year for things that make Shirley great.
+
+<div class="bio">
+<div class="headshot">
+<img src="/assets/headshots/Sherry-Anders.jpg" alt="Sherry Anders" width="100%">
+<h5>Sherry Anders</h5>
+</div>
+<div class="quote-block">
+<h6>Community Involvement</h6>
+<p>Shirley Greenway Committee, Fredonian Park ADA Implementation Project, Shirley Native and Invasive Plant Network, Campaign for Shirley CPA</p>
+<p class="quote">
+&ldquo;The CPA will put power in the hands of Shirley residents to help protect and enhance what we love most about our Town, while also helping to address important community needs such as affordable housing.&rdquo;
 </p>
-</div> -->
+</div>
+</div>
+
+<div class="bio">
+<div class="headshot">
+<img src="/assets/headshots/Laura-Thomas.jpg" alt="Laura Thomas" width="100%">
+<h5>Laura Thomas</h5>
+</div>
+<div class="quote-block">
+<h6>Community Involvement</h6>
+<p>Campaign for Shirley CPA</p>
+<p class="quote">
+&ldquo;I love our small town!  I love the beautiful spaces and historic buildings. The best part of Shirley is the people who live here.  I support the Community Preservation Act to make sure we are able to properly care for, preserve, and maintain the things my family, my friends, my neighbors and I love about Shirley.&rdquo;
+</p>
+</div>
+</div>
+
+<div class="bio">
+<div class="headshot">
+<img src="/assets/headshots/Danny-Beard.jpg" alt="Danny Beard" width="100%">
+<h5>Danny Beard</h5>
+</div>
+<div class="quote-block">
+<h6>Community Involvement</h6>
+<p>Boy Scout Troop 2, Campaign for Shirley CPA</p>
+<p class="quote">
+&ldquo;I enjoy the outdoor spaces, history, and amazing people in our small town of Shirley. I support the CPA to further protect and improve Shirley for my family and the entire community.&rdquo;
+</p>
+</div>
+</div>
