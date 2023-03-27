@@ -114,7 +114,7 @@ That means supporting our local parks and recreation projects, protecting our dr
 </div>
 <div class="quote-block">
 <h6>Community Involvement</h6>
-<p>Campaign for Shirley CPA</p>
+<p>Shirley Open Space and Rec Plan Committee, Campaign for Shirley CPA</p>
 <p class="quote">
 &ldquo;I love our small town!  I love the beautiful spaces and historic buildings. The best part of Shirley is the people who live here.  I support the Community Preservation Act to make sure we are able to properly care for, preserve, and maintain the things my family, my friends, my neighbors and I love about Shirley.&rdquo;
 </p>
