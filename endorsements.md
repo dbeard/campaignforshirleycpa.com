@@ -24,3 +24,27 @@ excerpt:
 
 > &ldquo;I love living here in Shirley, MA. This wonderful town has many wonderful rural and historical qualities. The CPA will help us to keep and preserve Shirley as the beautiful rural town that it is. The funding from the CPA can be used for many needed preservation projects as well as to buy conservation land. That is why I am voting yes to Support the CPA and I hope you will too.&rdquo;<br><br>
 &mdash; <span style="font-style: normal;">Timna Sandoval</span>, *Shirley Resident*
+
+> &ldquo;The CPA would be a great asset to Shirley. It meets a range of community needs, invests in our small town and draws in additional funds from the state match. I completely support the passage of the CPA.&rdquo;<br><br>
+&mdash; <span style="font-style: normal;">Brian Hildebrant</span>, *Chair, Shirley Finance Committee*
+
+> &ldquo;The CPA will provide funding for projects and programs that directly benefit the residents of Shirley. We have goals! We have plans! Check out the Town Website to see the Master Plan and the Open Space and Recreation Plan (and more!) The CPA will provide the resources we need to turn those goals into reality.&rdquo;<br><br>
+&mdash; <span style="font-style: normal;">Sarah Widing</span>, *Shirley Resident*
+
+> &ldquo;I want to see us get the funding to improve certain parts of our downtown.&rdquo;<br><br>
+&mdash; <span style="font-style: normal;">Liz Johnson</span>, *Shirley Resident*
+
+> &ldquo;I look at CPA as a way to create a savings plan for Shirley - a fund that grows over time and can be used to improve our parks and playing fields, protect open space & preserve Shirley's historic heritage, a fund increased by money from the state that would otherwise flow to surrounding towns, all of which have adopted CPA. We're missing out - vote yes!&rdquo;<br><br>
+&mdash; <span style="font-style: normal;">Janet Tice</span>, *Shirley Planning Board*
+
+> &ldquo;The Community Preservation Act is an investment in your property. With all the great benefits it brings to the community, you will see property values go up too.&rdquo;<br><br>
+&mdash; <span style="font-style: normal;">Joyce Reischutz</span>, *School Committee*
+
+> &ldquo;Common sense says if the state is gonna match some of our funds why wouldn’t you? $40-50 a year for the greater good for all in our town.&rdquo;<br><br>
+&mdash; <span style="font-style: normal;">Tina Shepherd</span>, *Shirley Resident*
+
+> &ldquo;The CPA gives our town a chance to control our future--have a say in how and where we grow and where we conserve land--the land that is so essential to our sense of place.&rdquo;<br><br>
+&mdash; <span style="font-style: normal;">Rembs Layman</span>, *Shirley Resident*
+
+> &ldquo;The CPA represents an investment, a personal and local investment, in what makes Shirley a great place to live. It can be used to protect natural places. It can ensure that our young and old community members have outdoor places to play sports and relax. Each of our small contributions to this fund can add up to enable tangible and lasting improvements in the quality of life for all in the Shirley community.&rdquo;<br><br>
+&mdash; <span style="font-style: normal;">Jay Duffner</span>, *Shirley Recreation Committee*

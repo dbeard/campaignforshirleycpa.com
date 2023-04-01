@@ -102,7 +102,7 @@ That means supporting our local parks and recreation projects, protecting our dr
 <h6>Community Involvement</h6>
 <p>Shirley Greenway Committee, Fredonian Park ADA Implementation Project, Shirley Native and Invasive Plant Network, Campaign for Shirley CPA</p>
 <p class="quote">
-&ldquo;The CPA will put power in the hands of Shirley residents to help protect and enhance what we love most about our Town, while also helping to address important community needs such as affordable housing.&rdquo;
+&ldquo;The CPA will put power in the hands of Shirley residents to help protect and enhance what we love most about our Town and address some of our most pressing community needs! Invest in Shirley on May 2!&rdquo;
 </p>
 </div>
 </div>
