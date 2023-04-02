@@ -48,11 +48,65 @@ Using FY23 as an example, the total amount raised by the CPA (surcharge plus sta
 
 ### How can I calculate what the CPA will cost me, personally?
 
-The CPA, if passed in Shirley, would comprise a 1% surcharge on assessed property, which one can easily figure out by simply moving a decimal point around.  
+The CPA, if passed in Shirley, would comprise a 1% surcharge on assessed property minus a 100k exemption, which one can easily figure out by using the simple calculator below. The assessed value of your property can be found in your most recent tax bill. Please note that the assessed value is **NOT** the same as the market value of your home!
 
-(Your annual tax amount  x  1%) - $14. ($100,000 exemption at tax rate of $14.18 per $1000)
+<fieldset class="fieldset form__fieldset">
+<legend class="legend form__legend">CPA Calculator</legend>
+<label class="label" for="assessed-value">Your Assessed Property Value:</label>
+<input class="input" id="assessed-value" type="number" name="value" value="" placeholder="100000" required="required" min="0" max="20000000" />
+<table>
+    <tr>
+        <td>Assessed value - 100k CPA exemption:</td>
+        <td style="font-weight: bold;" id="minus-exemption">$0</td>
+    </tr>
+    <tr>
+        <td id="taxed-value-description">Shirley tax rate (0.01418) x CPA exempt value:</td>
+        <td style="font-weight: bold;" id="taxed-value">$0.00</td>
+    </tr>
+    <tr>
+        <td id="annual-surcharge-description">Total annual CPA surcharge (1% of taxed value):</td>
+        <td style="font-weight: bold;" id="annual-surcharge">$0.00</td>
+    </tr>
+    <tr>
+        <td>Per quarter rate of CPA surcharge:</td>
+        <td style="font-weight: bold;" id="quarterly-surcharge">$0.00</td>
+    </tr>
+</table>
+</fieldset>
+<script>
 
-As an example, if a tax bill is $6,800, the surcharge will be $68-$14 = $54. or $13.50 a quarter.
+document.getElementById('assessed-value').addEventListener('input', function(evt){
+
+    var assessedValue = evt.target.value;
+
+    //Force it to zero if less than zero or not a number
+    if(isNaN(assessedValue) || assessedValue < 0){
+        assessedValue = 0;
+    }
+
+    var exemptValue = assessedValue - 100000;
+    if(exemptValue < 0){
+        exemptValue = 0;
+    }
+
+    var taxedValue = (0.01418 * exemptValue).toFixed(2);
+    var annualSurcharge = (0.01 * taxedValue).toFixed(2);
+    var quarterlySurcharge = (annualSurcharge / 4).toFixed(2);
+
+    document.getElementById("minus-exemption").innerHTML = "$" + exemptValue.toLocaleString("en-US");
+    document.getElementById("taxed-value-description").innerHTML = "Shirley tax rate (0.01418) x $" + exemptValue.toLocaleString("en-US") + ":";
+    document.getElementById("taxed-value").innerHTML = "$" + taxedValue;
+    document.getElementById("annual-surcharge-description").innerHTML = "Total annual CPA surcharge (1% of $" + taxedValue + "):";
+    document.getElementById("annual-surcharge").innerHTML = "$" + annualSurcharge;
+    document.getElementById("quarterly-surcharge").innerHTML = "$" + quarterlySurcharge;
+});
+
+</script>
+<br>
+
+<!-- (Your annual tax amount  x  1%) - $14. ($100,000 exemption at tax rate of $14.18 per $1000)
+
+As an example, if a tax bill is $6,800, the surcharge will be $68-$14 = $54. or $13.50 a quarter. -->
 
 ### What are examples of projects that could benefit from CPA funds in Shirley?
 
@@ -66,6 +120,16 @@ As an example, if a tax bill is $6,800, the surcharge will be $68-$14 = $54. or 
 The process requires two votes in favor of adoption:
  - A majority vote at Town Meeting on November 28, 2022 (Passed)
  - A majority vote at the general Town election on May 2, 2023
+
+### Can you tell me more about the ‘affordable housing’ aspect of the CPA?
+
+**CPA is not bringing affordable housing to Shirley. The state is mandating that all communities include affordable and multi-family housing in their zoning, with especially strict requirements for MBTA Communities, like Shirley. CPA funds can help Shirley shape future affordable housing developments to better harmonize with our community.**
+
+ - Affordable housing means housing for first-time home buyers and downsizing seniors, many of whose find Shirley’s current mix of housing types unaffordable, and will enable our children and senior citizens to continue to reside in Shirley 
+ - Single-family homes on large lots gobble up open space at a rate that is not compatible with the rural character and outdoor recreation opportunities we value
+ - Too many single family housing on large lots can also lead to higher taxes due to the additional “town-wide subsidized” costs of providing and maintaining roads, expanding emergency services, expanding school services, etc. 
+ - CPA can help empower Shirley with a smart growth approach that directs affordable housing, market rate housing and business development towards areas that are already well served by existing services and infrastructure, while conserving forested and open space areas that are farther from core town services. 
+ -Affordable and multi family housing clustered in the Shirley Village area with 1/2 mile of the commenter rail station, as required for MBTA Communities legislation, will help revitalize Shirley’s downtown, attracting new businesses, restaurants, etc., which will, in turn, broaden Shirley’s tax base. 
 
 ### Are donations to the campaign tax-deductible?
 
