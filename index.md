@@ -64,7 +64,7 @@ The CPA, if passed in Shirley, would comprise a 1% surcharge on assessed propert
         <td style="font-weight: bold;" id="taxed-value">$0.00</td>
     </tr>
     <tr>
-        <td id="annual-surcharge-description">Total annual CPA surcharge (1% of taxed value):</td>
+        <td id="annual-surcharge-description">Annual CPA surcharge (1% of taxed value):</td>
         <td style="font-weight: bold;" id="annual-surcharge">$0.00</td>
     </tr>
     <tr>
@@ -96,7 +96,7 @@ document.getElementById('assessed-value').addEventListener('input', function(evt
     document.getElementById("minus-exemption").innerHTML = "$" + exemptValue.toLocaleString("en-US");
     document.getElementById("taxed-value-description").innerHTML = "Shirley tax rate (0.01418) x $" + exemptValue.toLocaleString("en-US") + ":";
     document.getElementById("taxed-value").innerHTML = "$" + taxedValue;
-    document.getElementById("annual-surcharge-description").innerHTML = "Total annual CPA surcharge (1% of $" + taxedValue + "):";
+    document.getElementById("annual-surcharge-description").innerHTML = "Annual CPA surcharge (1% of $" + taxedValue + "):";
     document.getElementById("annual-surcharge").innerHTML = "$" + annualSurcharge;
     document.getElementById("quarterly-surcharge").innerHTML = "$" + quarterlySurcharge;
 });
