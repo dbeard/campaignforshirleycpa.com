@@ -125,11 +125,11 @@ The process requires two votes in favor of adoption:
 
 **CPA is not bringing affordable housing to Shirley. The state is mandating that all communities include affordable and multi-family housing in their zoning, with especially strict requirements for MBTA Communities, like Shirley. CPA funds can help Shirley shape future affordable housing developments to better harmonize with our community.**
 
- - Affordable housing means housing for first-time home buyers and downsizing seniors, many of whose find Shirley’s current mix of housing types unaffordable, and will enable our children and senior citizens to continue to reside in Shirley 
- - Single-family homes on large lots gobble up open space at a rate that is not compatible with the rural character and outdoor recreation opportunities we value
- - Too many single family housing on large lots can also lead to higher taxes due to the additional “town-wide subsidized” costs of providing and maintaining roads, expanding emergency services, expanding school services, etc. 
+ - Affordable housing means housing for first-time home buyers and downsizing seniors, many who find Shirley’s current mix of housing types unaffordable, and will enable our children and senior citizens to continue to reside in Shirley.
+ - Single-family homes on large lots gobble up open space at a rate that is not compatible with the rural character and outdoor recreation opportunities we value.
+ - Too many single family homes on large lots can also lead to higher taxes due to the additional “town-wide subsidized” costs of providing and maintaining roads, expanding emergency services, expanding school services, etc. 
  - CPA can help empower Shirley with a smart growth approach that directs affordable housing, market rate housing and business development towards areas that are already well served by existing services and infrastructure, while conserving forested and open space areas that are farther from core town services. 
- -Affordable and multi family housing clustered in the Shirley Village area with 1/2 mile of the commenter rail station, as required for MBTA Communities legislation, will help revitalize Shirley’s downtown, attracting new businesses, restaurants, etc., which will, in turn, broaden Shirley’s tax base. 
+ - Affordable and multi-family housing clustered in the Shirley Village area within a 1/2 mile of the commuter rail station, as required for MBTA Communities legislation, will help revitalize Shirley’s downtown.
 
 ### Are donations to the campaign tax-deductible?
 
