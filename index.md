@@ -139,6 +139,12 @@ Federal law stipulates that campaign donations are not tax-deductible.
 
 If any funds remain after all campaign expenses have been paid, the excess money will be allocated toward any eligible CPA need.
 
+### How are the funds distributed to the different groups who are allowed to use them? More specifically, are there caps on percentages of the funds that one group/project can use?
+
+10% of collected CPA surcharges will go into a historic preservation fund, 10% will go into an open space/recreation fund, and 10% will go into an affordable housing fund. The remaining 70% is placed into a fund that can be used for any of the three categories. The money can accumulate in these funds until a need is identified.  Apart from the 10% allotments there is no cap per category.
+
+While the CPA Committee will review and make recommendations for funding, all projects using CPA funds must be approved by majority vote at a town meeting. Voters should take some comfort in knowing that they have control over CPA projects through their town meeting vote.
+
 ### How do I make a donation?
 
 Make checks payable to *Campaign for Shirley CPA* and mail to:<br>
