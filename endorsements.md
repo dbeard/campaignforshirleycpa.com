@@ -52,6 +52,16 @@ excerpt:
 > &ldquo;Bemis values the qualities & characteristics of Shirley that make it a special place to live, work and play. We recommend voting YES to the CPA so that we continue to invest in the characteristics that make Shirley so special.&rdquo;<br><br>
 &mdash; <span style="font-style: normal;">Ben Howard</span>, *Bemis Director of Sustainability*
 
+> &ldquo;I love living in Shirley! I feel such a strong sense of community here. The CPA will help Shirley's community to grow and become even better than it already is!&rdquo;<br><br>
+&mdash; <span style="font-style: normal;">Valerie Conrad</span>, *Shirley Resident*
+
+> &ldquo;By approving the CPA funds, Shirley will receive a match from the state. I would rather our CPA match funds (already taken in state taxes) are used in Shirley to maintain the character of our small town.&rdquo;<br><br>
+&mdash; <span style="font-style: normal;">Dave Conrad</span>, *Shirley Resident*
+
+> &ldquo;I have been involved with historic preservation for over 50 years, teaching historic trades and restoring many historic buildings, including several in Shirley. I know the good work that the CPA has done for other Massachusetts communities and wondered 'why not Shirley?'<br><br>
+Since its inception, CPA funds have helped many other Massachusetts towns accomplish projects that would otherwise be unable to be funded through local budgets. This includes projects not only for historic preservation but also the acquisition of additional open space and housing improvements. Shirley needs the CPA to improve and maintain the quality of life we all enjoy, for now and our future generations.<br><br>Please vote 'Yes' on May 2nd.&rdquo;<br><br>
+&mdash; <span style="font-style: normal;">Robert Adam</span>, *Shirley Resident, Historic Preservationist (Shirley Meetinghouse, MacKaye Cottage)*
+
 > &ldquo;The Community Preservation Act is a critical tool for Shirley to preserve its historic charm and character, maintain its open spaces, and to leverage state funds to invest in the town’s future. I fully endorse the campaign to adopt the CPA. Vote YES on May 2!&rdquo;<br><br>
 &mdash; <span style="font-style: normal;">Senator John J. Cronin</span>, *Massachusetts State Senator representing the Worcester and Middlesex District (including Shirley)*
 
