@@ -62,6 +62,12 @@ excerpt:
 Since its inception, CPA funds have helped many other Massachusetts towns accomplish projects that would otherwise be unable to be funded through local budgets. This includes projects not only for historic preservation but also the acquisition of additional open space and housing improvements. Shirley needs the CPA to improve and maintain the quality of life we all enjoy, for now and our future generations.<br><br>Please vote 'Yes' on May 2nd.&rdquo;<br><br>
 &mdash; <span style="font-style: normal;">Robert Adam</span>, *Shirley Resident, Historic Preservationist (Shirley Meetinghouse, MacKaye Cottage)*
 
+> &ldquo;The Community Preservation Act is a wonderful opportunity for Shirley residents to help Shirley maintain its New England heritage. The Community Preservation Act will help Shirley to maintain it open space, historic structures and rural feel while allowing us to invest in the future. Please join in and vote yes on May 2nd for support of the Community Preservation Act CPA.&rdquo;<br><br>
+&mdash; <span style="font-style: normal;">Susan Gillham</span>, *Vice Chair, Conservation Commission*
+
+> &ldquo;The CPA will help support projects that align with our family's values. Preserving open space, opportunities for outdoor recreation, and preserving historic sites are just a few of many ways the CPA can help improve Shirley. Additionally, current and future generations will greatly benefit from the potential for affordable housing opportunities. A vote 'yes' on May 2nd will ensure a brighter future for our beautiful community!&rdquo;<br><br>
+&mdash; <span style="font-style: normal;">Erica and Corey White</span>, *Shirley Residents*
+
 > &ldquo;The Community Preservation Act is a critical tool for Shirley to preserve its historic charm and character, maintain its open spaces, and to leverage state funds to invest in the town’s future. I fully endorse the campaign to adopt the CPA. Vote YES on May 2!&rdquo;<br><br>
 &mdash; <span style="font-style: normal;">Senator John J. Cronin</span>, *Massachusetts State Senator representing the Worcester and Middlesex District (including Shirley)*
 
